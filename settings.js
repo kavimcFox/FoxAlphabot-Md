@@ -6,7 +6,7 @@ const {
    spanyol
 } = require(`./language`)
 
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
